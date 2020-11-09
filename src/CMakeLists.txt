@@ -3,5 +3,5 @@ project(LearnAdvancedCppProgramming)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_subdirectory(src)
+add_subdirectory([Section10]A\ Project\ of\ Drawing\ Fractral\ Images)
 #add_executable(LearnAdvancedCppProgramming main.cpp)
