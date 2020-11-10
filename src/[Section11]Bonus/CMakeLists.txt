@@ -1,0 +1,1 @@
+add_subdirectory([105]Multiple\ Inheritance)
