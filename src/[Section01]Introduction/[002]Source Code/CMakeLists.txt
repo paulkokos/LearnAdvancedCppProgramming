@@ -1,0 +1,1 @@
+add_executable(002SourceCode [002]Source\ Code.cpp)

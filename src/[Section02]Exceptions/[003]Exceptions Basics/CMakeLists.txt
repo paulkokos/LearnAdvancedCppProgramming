@@ -1,0 +1,1 @@
+add_executable(003ExceptionsBasics [003]Exceptions\ Basics.cpp)

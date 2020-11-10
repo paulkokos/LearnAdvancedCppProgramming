@@ -1,0 +1,1 @@
+add_executable(005CustomExceptions [005]Custom\ Exceptions.cpp)

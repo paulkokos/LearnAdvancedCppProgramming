@@ -1,0 +1,1 @@
+add_executable(006ExceptionCatchingOrder [006]Exception\ Catching\ Order.cpp)

@@ -1,0 +1,1 @@
+add_executable(004StandardExceptions [004]Standard\ Exceptions.cpp)
