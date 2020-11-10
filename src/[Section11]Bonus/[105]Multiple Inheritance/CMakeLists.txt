@@ -1,1 +1,1 @@
-add_executable()
+add_executable(105MultipleInheritance [105]Multiple\ Inheritance.cpp)

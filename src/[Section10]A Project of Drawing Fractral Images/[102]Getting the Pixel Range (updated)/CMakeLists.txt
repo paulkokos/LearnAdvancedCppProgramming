@@ -1,1 +1,1 @@
-add_executable(102GettingthePixelRange-updated "[102]Getting the Pixel Range (updated).cpp")
+add_executable(102GettingthePixelRange [102]Getting\ the\ Pixel\ Range.cpp)
