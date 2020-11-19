@@ -1,0 +1,1 @@
+add_executable(081AMandelbrotClass [081]A\ Mandelbrot\ Class.cpp)

@@ -1,0 +1,1 @@
+add_executable(008ReadingTextFiles [008]Reading\ Text\ Files.cpp)

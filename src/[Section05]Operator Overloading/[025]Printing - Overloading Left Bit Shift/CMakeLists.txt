@@ -1,0 +1,1 @@
+add_executable(025Printing-OverloadingLeftBitShift [025]Printing\ -\ Overloading\ Left\ Bit\ Shift.cpp)

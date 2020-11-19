@@ -1,0 +1,1 @@
+add_executable(042NestedTemplateClasses [042]Nested\ Template\ Classes.cpp)

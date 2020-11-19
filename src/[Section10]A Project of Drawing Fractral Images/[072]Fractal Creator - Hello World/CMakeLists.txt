@@ -1,0 +1,1 @@
+add_executable(072FractalCreator-HelloWorld [072]Fractal\ Creator\ -\ Hello\ World.cpp)

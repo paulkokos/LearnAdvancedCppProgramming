@@ -1,0 +1,1 @@
+add_executable(053TheStandardFunctionType [053]The\ Standard\ Function\ Type.cpp)

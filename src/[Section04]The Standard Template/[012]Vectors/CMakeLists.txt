@@ -1,0 +1,1 @@
+add_executable(012Vectors [012]Vectors.cpp)

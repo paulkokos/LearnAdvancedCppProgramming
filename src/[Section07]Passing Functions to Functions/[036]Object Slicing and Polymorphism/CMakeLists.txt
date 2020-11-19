@@ -1,0 +1,1 @@
+add_executable(036ObjectSlicingandPolymorphism [036]Object\ Slicing\ and\ Polymorphism.cpp)

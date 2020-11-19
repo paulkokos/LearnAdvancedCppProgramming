@@ -1,0 +1,1 @@
+add_executable(045InitializationinC++98 [045]Initialization\ in\ C++\ 98.cpp)

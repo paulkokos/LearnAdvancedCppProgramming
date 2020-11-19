@@ -1,0 +1,1 @@
+add_executable(063StaticCasts [063]Static\ Casts.cpp)

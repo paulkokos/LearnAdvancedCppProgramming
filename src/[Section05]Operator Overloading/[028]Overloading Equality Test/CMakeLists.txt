@@ -1,0 +1,1 @@
+add_executable(028OverloadingEqualityTest [028]Overloading\ Equality\ Test.cpp)

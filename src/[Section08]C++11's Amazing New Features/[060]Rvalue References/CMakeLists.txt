@@ -1,0 +1,1 @@
+add_executable(060RvalueReferences [060]Rvalue\ References.cpp)

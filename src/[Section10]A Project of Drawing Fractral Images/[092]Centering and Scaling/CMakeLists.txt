@@ -1,0 +1,1 @@
+add_executable(092CenteringandScaling [092]Centering\ and\ Scaling.cpp)

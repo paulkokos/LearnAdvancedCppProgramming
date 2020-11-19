@@ -1,0 +1,1 @@
+add_executable(090AZoomClass [090]A\ Zoom\ Class.cpp)

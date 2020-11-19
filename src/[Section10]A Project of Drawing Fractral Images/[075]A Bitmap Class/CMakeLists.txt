@@ -1,0 +1,1 @@
+add_executable(075ABitmapClass [075]A\ Bitmap\ Class.cpp)

@@ -1,0 +1,1 @@
+add_executable(054MutableLambdas [054]Mutable\ Lambdas.cpp)

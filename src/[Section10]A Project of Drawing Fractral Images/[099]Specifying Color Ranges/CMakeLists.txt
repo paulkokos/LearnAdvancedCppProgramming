@@ -1,0 +1,1 @@
+add_executable(099SpecifyingColorRanges [099]Specifying\ Color\ Ranges.cpp)

@@ -1,0 +1,1 @@
+add_executable(096ImplementingFractalCreator [096]Implementing\ FractalCreator.cpp)

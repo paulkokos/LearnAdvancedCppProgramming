@@ -1,0 +1,1 @@
+add_executable(022SortingVectorsDequeandFriend [022]Sorting\ Vectors,\ Deque\ and\ Friend.cpp)

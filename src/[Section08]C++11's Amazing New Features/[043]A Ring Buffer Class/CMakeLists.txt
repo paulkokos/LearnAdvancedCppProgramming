@@ -1,0 +1,1 @@
+add_executable(043ARingBufferClass [043]A\ Ring\ Buffer\ Class.cpp)

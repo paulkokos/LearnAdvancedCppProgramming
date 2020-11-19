@@ -1,0 +1,1 @@
+add_executable(032TemplateFunctions [032]Template\ Functions.cpp)

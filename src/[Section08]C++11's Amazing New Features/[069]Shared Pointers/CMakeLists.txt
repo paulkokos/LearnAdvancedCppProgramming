@@ -1,0 +1,1 @@
+add_executable(069SharedPointers [069]Shared\ Pointers.cpp)

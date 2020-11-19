@@ -1,0 +1,1 @@
+add_executable(062MoveAssignmentOperators [062]Move\ Assignment\ Operators.cpp)

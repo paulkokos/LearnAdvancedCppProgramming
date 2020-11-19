@@ -1,0 +1,1 @@
+add_executable(040TheAutoKeyword [040]The\ Auto\ Keyword.cpp)

@@ -1,0 +1,1 @@
+add_executable(049IntroducingLambdaExpressions [049]Introducing\ Lambda\ Expressions.cpp)

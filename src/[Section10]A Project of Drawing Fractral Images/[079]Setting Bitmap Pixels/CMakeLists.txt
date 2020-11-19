@@ -1,0 +1,1 @@
+add_executable(079SettingBitmapPixels [079]Setting\ Bitmap\ Pixels.cpp)

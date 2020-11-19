@@ -1,0 +1,1 @@
+add_executable(048ObjectInitializationDefaultandDelete [048]Object\ Initialization,\ Default\ and\ Delete.cpp)

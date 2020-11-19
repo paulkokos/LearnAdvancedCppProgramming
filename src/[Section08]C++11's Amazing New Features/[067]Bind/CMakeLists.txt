@@ -1,0 +1,1 @@
+add_executable(067Bind [067]Bind.cpp)

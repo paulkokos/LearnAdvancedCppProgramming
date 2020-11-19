@@ -1,0 +1,1 @@
+add_executable(076BitmapMemory [076]Bitmap\ Memory.cpp)

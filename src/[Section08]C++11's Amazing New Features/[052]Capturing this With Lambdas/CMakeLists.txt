@@ -1,0 +1,1 @@
+add_executable(052CapturingthisWithLambdas [052]Capturing\ this\ With\ Lambdas.cpp)

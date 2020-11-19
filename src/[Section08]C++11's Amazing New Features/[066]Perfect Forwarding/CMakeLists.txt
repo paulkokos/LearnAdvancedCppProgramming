@@ -1,0 +1,1 @@
+add_executable(066PerfectForwarding [066]Perfect\ Forwarding.cpp)

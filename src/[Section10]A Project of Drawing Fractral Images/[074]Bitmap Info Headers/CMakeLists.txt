@@ -1,0 +1,1 @@
+add_executable(074BitmapInfoHeaders [074]Bitmap\ Info\ Headers.cpp)

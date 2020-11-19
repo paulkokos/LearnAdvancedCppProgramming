@@ -1,0 +1,1 @@
+add_executable(031TemplateClasses [031]Template\ Classes.cpp)

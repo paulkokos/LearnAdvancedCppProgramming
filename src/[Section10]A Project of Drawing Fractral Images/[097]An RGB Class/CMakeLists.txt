@@ -1,0 +1,1 @@
+add_executable(097AnRGBClass [097]An\ RGB\ Class.cpp)

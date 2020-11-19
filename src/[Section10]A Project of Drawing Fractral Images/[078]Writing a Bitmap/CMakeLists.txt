@@ -1,0 +1,1 @@
+add_executable(078WritingaBitmap [078]Writing\ a\ Bitmap.cpp)
